@@ -1,6 +1,7 @@
-# Projeto DLEA WEB SYSTEM BanckAnd 
+# Projeto BanckEnd 
 
-O Projeto DLEA WEB SYSTEM BanckAnd é uma plataforma web que visa proporcionar interatividade ao usuário. Ao clicar em uma opção de jogo, o sistema retorna as informações do jogo selecionado.
+O Projet Back-And é uma plataforma web que visa proporcionar interatividade ao usuário. Ao clicar em uma opção de jogo, o sistema retorna as informações do jogo selecionado.
+Essa é versão do projeto do back-end.
 
  <img src="./Assets/Animacao.gif" alt="git da tela inicial do projeto">
 
